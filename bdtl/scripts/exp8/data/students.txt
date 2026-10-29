@@ -1,0 +1,6 @@
+1,Aarav,D01
+2,Diya,D02
+3,Kabir,D01
+4,Meera,D03
+5,Rohan,D02
+6,Sneha,D04

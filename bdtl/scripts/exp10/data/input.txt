@@ -1,0 +1,4 @@
+Apache Spark is a fast engine for big data processing
+Spark keeps data in memory for faster processing
+Big Data Big Analytics
+Spark runs on Hadoop and reads data from HDFS

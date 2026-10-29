@@ -1,0 +1,5 @@
+Big Data is a collection of data that is huge in volume
+Hadoop stores big data in HDFS and processes it with MapReduce
+Apache Pig is a platform for analysing big data on Hadoop
+Pig Latin scripts are converted into MapReduce jobs by Pig
+Pig makes big data processing simple and fast
